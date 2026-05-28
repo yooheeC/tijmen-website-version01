@@ -54,13 +54,4 @@
     cursor: pointer;
   }
 
-  .intro-popup {
-    width: 80vw;
-    top: auto;
-    bottom: 5%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 100;
-  }
-
 }
